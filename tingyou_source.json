@@ -1,7 +1,7 @@
 {
-  "version": 3,
+  "version": 4,
   "entry_package": "sources_by_yangjunshuo",
-  "download_url": "https://raw.githubusercontent.com/yangjunshuo-ai/tingyou-source/main/sources_by_yangjunshuo.jar?v=3",
-  "update_msg": "改为从网页audio元素读取播放地址",
+  "download_url": "https://raw.githubusercontent.com/yangjunshuo-ai/tingyou-source/main/sources_by_yangjunshuo.jar?v=4",
+  "update_msg": "通过play_token接口获取播放地址",
   "support_url": ""
 }
